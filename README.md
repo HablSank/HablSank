@@ -9,7 +9,7 @@
 
 <p align="center">
   <br /> 
-  🌱 Saya sedang fokus mendalami <b>Laravel</b> dan <b>Linux</b>.
+  🌱 Saya sedang fokus mendalami <b>Laravel</b> dan <b>Kali Linux</b>.
   <br />
   💼 Saya sedang mencari peluang sebagai <b>Security Analyst / Penetration Tester</b>.
   <br />
