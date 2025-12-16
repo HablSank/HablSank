@@ -5,15 +5,15 @@
 ---
 
 <h1 align="center">Hai 👋, Saya Habl Sankrumi Pradhab</h1>
-<h3 align="center">Seorang Junior Web Developer dan CyberSecurity Enthusiast dari Indonesia 🇮🇩</h3>
+<h3 align="center">Seorang Junior Web Developer, CyberSecurity & Machine Learning Enthusiast dari Indonesia 🇮🇩</h3>
 
 <p align="center">
   <br /> 
-  🌱 Saya sedang fokus mendalami <b>Laravel</b> dan <b>Kali Linux</b>.
+  🌱 Saya sedang fokus mendalami <b>Laravel</b> dan <b>Jupyter Notebook</b>.
   <br />
-  💼 Saya sedang mencari peluang sebagai <b>Security Analyst / Penetration Tester</b>.
+  💼 Saya sedang mencari peluang sebagai <b>Data Analyst / Security Analyst</b>.
   <br />
-  💬 Tanya saya tentang apa saja yang berhubungan dengan <b>Front End Development</b> atau <b>Capture The Flag</b>.
+  💬 Tanya saya tentang apa saja yang berhubungan dengan <b>Front End Development</b> atau <b>Machine Learning</b>.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HablSank&style=for-the-badge&color=green" alt="Profile Visitor Counter"/>
